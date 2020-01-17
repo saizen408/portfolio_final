@@ -44,7 +44,7 @@ module.exports = {
       gitHub: `saizen408`,
       stackOverflow: `16146213/eric`,
       linkedIn: `in/ericowusu/`,
-      resumeInPdf: `https://drive.google.com/open?id=1PEftUDoFGZa5YwBVqgHcnd9e0XeQf-Wc` // url or local link
+      resumeInPdf: `https://drive.google.com/open?id=1n-4x_HMA4UDroRk6Kkh2rCDcz4MFXnxl` // url or local link
     },
     homePage: {
       availableToHire: true,
