@@ -55,7 +55,7 @@ module.exports = {
         `Coding is my passion 🤩`,
         `I'm a 🍣 and 🥩 lover`,
         `I'm a pretty fast learner and am always interested in learning new technologies 🤓`,
-        `I think one of my values is the <strong>ability to resolve problems<strong>`,
+        `I don't just solve problems. I find new ones and solve those too! 🔎`,
         `I like to share what I know 👨🏾‍🏫`,
         `In my non-coding hours, I'm at the 🏋🏾‍♂️`,
         `I also do design and UX work <span style='background: linear-gradient(to right, #7f00ff, #e100ff);
