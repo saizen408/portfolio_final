@@ -43,7 +43,7 @@ images:
     },
     {
       title: "Features cont.",
-      description: "Firebase database, fully tested components, and secure back-end data validation",
+      description: "Deck.gl circumvents the performance issues from running expensive computations on the GPU with WebGL.",
       layout: "3",
       files:
         [
@@ -58,6 +58,6 @@ dateFrom: "2020-01-01"
 dateTo: "2020-01-01"
 ---
 
-- Tech Stack: Vanilla JS, Deck.GL, Webpack, Google Maps API
-- With Deck.GL library rendered high-performance data overlays to Google Maps based on a dataset of 140,000+ incidents of gun violence in the United States.
-- Using Vanilla JavaScript, designed filter algorithm to enable real-time data visualization by over 60+ different configurations
+- Tech Stack: Vanilla JavaScript, Deck.GL, Webpack, Google Maps API
+- With Deck.GL library rendered high-performance data overlays to Google Maps based on a dataset of 140,000+ incidents of gun violence in the United States
+- Designed data filtering algorithm to enable real-time data visualization of over 60+ different configurations using vanilla JavaScript
