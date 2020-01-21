@@ -7,8 +7,8 @@
 const path = `${__dirname}/src/`;
 const imagesPath = `${__dirname}/src/images/`;
 const typographyPath = `${__dirname}/src/utils/typography`;
-const siteName = `Christian David Ibarguen`;
-const siteShortName = `CD`;
+const siteName = `Eric Owusu`;
+const siteShortName = `EO`;
 const siteDescription = `This cool App contains information about my work experience as a software developer.`;
 
 module.exports = {

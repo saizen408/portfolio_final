@@ -61,7 +61,7 @@ images:
     },
   ]
 dateFrom: "2019-10-01"
-dateTo: "2019-11-01"
+dateTo: "2019-10-15"
 ---
 
 - Tech Stack: Next.js, Node.js, MongoDB, Jest, Material-UI

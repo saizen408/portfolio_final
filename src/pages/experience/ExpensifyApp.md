@@ -61,7 +61,7 @@ images:
     },
   ]
 dateFrom: "2019-12-01"
-dateTo: "2020-01-01"
+dateTo: "2019-12-31"
 ---
 
 - Tech Stack: React, Redux, Firebase, Jest/Enzyme, Webpack

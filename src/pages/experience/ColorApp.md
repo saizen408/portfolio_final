@@ -7,10 +7,10 @@ skills:
   [
     { title: "JavaScript", image: ../../images/skills/javascript.png },
     { title: "React", image: ../../images/skills/react.png },
-    { title: "HTML 5", image: ../../images/skills/html5.png },
-    { title: "CSS", image: ../../images/skills/css.png },
     { title: "VScode", image: ../../images/skills/vscode.png },
     { title: "npm", image: ../../images/skills/npm.png },
+    { title: "HTML 5", image: ../../images/skills/html5.png },
+    { title: "CSS", image: ../../images/skills/css.png },
     { title: "GitHub", image: ../../images/skills/github.png },
     { title: "Yarn", image: ../../images/skills/yarn.png },
     { title: "Material UI", image: ../../images/skills/materialui.png },
@@ -41,8 +41,8 @@ images:
         ],
     },
   ]
-dateFrom: "2019-11-01"
-dateTo: "2019-12-01"
+dateFrom: "2019-12-01"
+dateTo: "2019-12-30"
 ---
 
 - Tech Stack: React, Material-UI, Chroma.js, React-Router, Sortable HOC
