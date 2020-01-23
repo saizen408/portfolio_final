@@ -1,8 +1,8 @@
-import React from "react"
-import { Global } from "@emotion/core"
-import { graphql, useStaticQuery } from "gatsby"
-import styles from "./layout.css"
-import styleColors from "./layoutColors.css"
+import React from "react";
+import { Global } from "@emotion/core";
+import { graphql, useStaticQuery } from "gatsby";
+import styles from "./layout.css";
+import styleColors from "./layoutColors.css";
 
 export default ({ children }) => {
   function svgIcos() {
@@ -25,7 +25,7 @@ export default ({ children }) => {
           </symbol>
         </defs>
       </svg>
-    )
+    );
   }
 
   const siteQuery = graphql`
@@ -36,12 +36,12 @@ export default ({ children }) => {
         }
       }
     }
-  `
+  `;
   const {
     site: {
-      siteMetadata: { footer },
-    },
-  } = useStaticQuery(siteQuery)
+      siteMetadata: { footer }
+    }
+  } = useStaticQuery(siteQuery);
 
   return (
     <>
@@ -53,10 +53,11 @@ export default ({ children }) => {
         </div>
         <div className="copy">
           <a
-            href="https://github.com/christiandavid/gatsby-theme-byfolio"
+            href="https://www.gatsbyjs.org/"
             rel="noopener noreferrer"
             className="nolink"
             target="_blank"
+            // inpsired by christiandavid - gatsby-theme-byfolio
           >
             {footer === "heart" ? (
               <>
@@ -87,5 +88,5 @@ export default ({ children }) => {
       {/* This add a line in the bottom, but let Paint Drive Animation Work */}
       <span className="bgPageColor">.</span>
     </>
-  )
-}
+  );
+};
