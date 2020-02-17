@@ -47,7 +47,7 @@ module.exports = {
       resumeInPdf: `https://drive.google.com/open?id=1n-4x_HMA4UDroRk6Kkh2rCDcz4MFXnxl` // url or local link
     },
     homePage: {
-      availableToHire: true,
+      availableToHire: false,
       dotColors: ["#0e3e1e", "#6CC551"],
       h1Text: `Hi! I'm Eric Owusu`,
       h2Text: `I'm a Full Stack Developer who loves working with UI. I have a background in Electrical Engineering and Sales bringing a unique perspective to web and software development! `,
