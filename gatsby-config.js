@@ -68,18 +68,18 @@ module.exports = {
       link: { color: "#171616", hover: "#fff" },
       shape1: {
         // color: `#413f46`,
-        color: `#394bad`,
-        opacity: `0.8`
+        color: `#4FF527`,
+        opacity: `0.85`
       },
       shape2: {
         // color: `#e6e5ea`,
-        color: `#5f34af`,
-        opacity: `0.8`
+        color: `#4FF527`,
+        opacity: `1.0`
       },
       shape3: {
         // color: `#fff`,
-        color: `#e01b5c`,
-        opacity: `0.8`
+        color: `#FF00FF`,
+        opacity: `.95`
       }
     },
     footer: `heart`
